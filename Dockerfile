@@ -1,4 +1,4 @@
-FROM tutum/lamp:latest
+FROM ortutay/lamp:latest
 MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
 
 # Install plugins
